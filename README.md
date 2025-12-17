@@ -4,7 +4,7 @@ This architecture aims to facilitate assembly programming on microcontrollers,ad
 
 ## Architecture Overview
 
-![Register Bank](images/Captura%20de%20tela%202025-12-17%20022126.png)
+![Register Bank](Captura de tela 2025-12-17 022126.png)
 
 It's a register bank with native support for variables, designed to simplify assembly programming by enabling direct variable handling in hardware.  
 This architecture targets faster, less error-prone embedded development through a hardware-compiled, high-level assembly model.
